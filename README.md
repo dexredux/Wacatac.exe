@@ -8,3 +8,5 @@ I have kept it on my pc and put it through VirusTotal 4 days ago, it gets a 15/7
 In its current state I have made it so the decrypter that get's downloaded will prevent signifigant damage on anyone that decides to run the software.
 
 It won't destroy your computer, but it could potentially encrypt every file under a users control.
+
+I won't upload until I'm ready, not yet.
